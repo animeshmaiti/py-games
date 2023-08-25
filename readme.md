@@ -1,6 +1,6 @@
 # Py games
 Dependencies:
-- pygame
+- [pygame](https://www.pygame.org/wiki/GettingStarted)
 install with:
 ```bash
 pip install pygame
